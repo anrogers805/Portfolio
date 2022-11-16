@@ -9,10 +9,10 @@ This is a repository to showcase skills, share project sand track my progess in 
 
 ## Table of contents
 
-<a href="https://github.com/anrogers805/Portfolio/blob/main/CovidData.sql">Covid-19 Data Exploration </a> 
+<a href="https://github.com/anrogers805/Portfolio/blob/main/CovidData.sql">Covid-19 Data Exploration using SQL </a> 
 
 
-<a href="https://github.com/anrogers805/Portfolio/blob/main/Cyclistic%20Bike-Share%20%7C%7C%20Google%20Capstone%20Case%20Study"> Cyclistic Bike-Share Capstone Study </a> 
+<a href="https://github.com/anrogers805/Portfolio/blob/main/Cyclistic%20Bike-Share%20%7C%7C%20Google%20Capstone%20Case%20Study"> Cyclistic Bike-Share Capstone Study using Excel </a> 
 
 •Pivot Table 1 
 
