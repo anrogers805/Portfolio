@@ -63,3 +63,11 @@ You will produce a report with the following deliverables:
 4. A summary of your analysis
 5. Supporting visualizations and key findings
 6. Your top three recommendations based on your analysis
+
+
+•Download the previous 12 months of Cyclistic trip data
+•Convert CSV files to XLSX 
+•Add two extra columns to each work sheet 
+  'Ride Length' =(D2)-(C2) 
+  'Day of Week' =WEEKDAY(C2,1)
+•Create Pivot Table showing the average ride length by member type 
