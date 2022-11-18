@@ -70,4 +70,5 @@ You will produce a report with the following deliverables:
 •Add two extra columns to each work sheet 
   'Ride Length' =(D2)-(C2) 
   'Day of Week' =WEEKDAY(C2,1)
-•Create Pivot Table showing the average ride length by member type 
+•Create Pivot Table showing the average ride length by member type
+    PIVOT TABLE 2021 11 https://i.imgur.com/283aheY.png
