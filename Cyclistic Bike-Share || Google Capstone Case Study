@@ -72,3 +72,4 @@ You will produce a report with the following deliverables:
   'Day of Week' =WEEKDAY(C2,1)
 •Create Pivot Table showing the average ride length by member type
     PIVOT TABLE 2021 11 https://i.imgur.com/283aheY.png
+    PIVOT TABLE 2021 12 https://i.imgur.com/jVYuKYV.png
