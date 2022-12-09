@@ -9,8 +9,8 @@ I am looking forward to starting a new career path as a data analyst and see whe
 
 ## Table of contents
 
-<a href="https://github.com/anrogers805/Portfolio/blob/main/CovidData.sql">Covid-19 Data Exploration using SQL </a> 
+:earth_americas:<a href="https://github.com/anrogers805/Portfolio/blob/main/CovidData.sql">Covid-19 Data Exploration using SQL </a> :earth_americas:
 
 
-<a href="https://github.com/anrogers805/Portfolio/blob/main/Cyclistic%20Bike-Share%20%7C%7C%20Google%20Capstone%20Case%20Study"> Cyclistic Bike-Share Capstone Study using Excel </a> 
+:bicyclist:<a href="https://github.com/anrogers805/Portfolio/blob/main/Cyclistic%20Bike-Share%20%7C%7C%20Google%20Capstone%20Case%20Study"> Cyclistic Bike-Share Capstone Study using Excel </a> :bicyclist:
 
