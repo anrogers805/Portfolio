@@ -14,6 +14,3 @@ This is a repository to showcase skills, share project sand track my progess in 
 
 <a href="https://github.com/anrogers805/Portfolio/blob/main/Cyclistic%20Bike-Share%20%7C%7C%20Google%20Capstone%20Case%20Study"> Cyclistic Bike-Share Capstone Study using Excel </a> 
 
-•Pivot Tables in Excel
-
-![alt text](https://i.imgur.com/283aheY.png)
